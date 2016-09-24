@@ -1,0 +1,1 @@
+Diretório para os artefatos relacionados ao processo.

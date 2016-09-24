@@ -1,0 +1,1 @@
+Diretório para armazenamento dos Processos de cada área.

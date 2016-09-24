@@ -1,0 +1,1 @@
+Diretório para os artefatos gerados durante a execução do projeto.
